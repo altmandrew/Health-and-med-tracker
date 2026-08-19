@@ -13,3 +13,5 @@ jobs:
           echo "Current directory:"
           pwd
           ls -la
+git config --global user.name "Andrew Altman"
+git config --global user.email "altmandrew@gmail.com"
